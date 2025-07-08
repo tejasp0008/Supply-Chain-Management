@@ -121,13 +121,6 @@ src/
 
 ---
 
-## 🌐 Deployment
-
-- Deploy via [Lovable](https://lovable.dev/) or your preferred static hosting.
-- To connect a custom domain, see [Lovable Docs](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide).
-
----
-
 ## 📝 Contributing
 
 1. Fork the repo and create your branch.
